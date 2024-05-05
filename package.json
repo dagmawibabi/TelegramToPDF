@@ -1,0 +1,17 @@
+{
+  "name": "main.js",
+  "module": "main.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "pdfkit": "^0.15.0",
+    "strip-ansi": "^7.1.0",
+    "wordwrap": "^1.0.0"
+  }
+}
