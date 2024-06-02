@@ -9,6 +9,7 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
+    "image-size": "^1.1.1",
     "pdf-lib": "^1.17.1",
     "pdfkit": "^0.15.0",
     "strip-ansi": "^7.1.0",
