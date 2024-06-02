@@ -4,6 +4,9 @@
 data
 data/
 ./data
+output
+output/
+./output
 
 logs
 _.log
